@@ -1,0 +1,33 @@
+.messengercontainer {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.userpanel {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #6e8efb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.username {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.chatlist {
+  padding: 20px;
+}
